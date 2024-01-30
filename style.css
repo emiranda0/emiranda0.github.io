@@ -1,0 +1,14 @@
+/*change the font!*/
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e6ddde;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #443235;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
